@@ -1,0 +1,4 @@
+-- github.com/minahany000
+SELECT COUNT (*)
+FROM CITY
+WHERE POPULATION >100000;
